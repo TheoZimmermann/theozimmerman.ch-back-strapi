@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_header_headers",
+  "info": {
+    "name": "Header",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "component",
+      "repeatable": true,
+      "component": "small-components.link"
+    }
+  }
+}
