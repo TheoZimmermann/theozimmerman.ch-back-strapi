@@ -19,7 +19,7 @@
       "type": "string"
     },
     "intro": {
-      "type": "text"
+      "type": "richtext"
     }
   }
 }

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_small_components_accordions",
+  "info": {
+    "name": "accordion",
+    "icon": "arrows-alt-v"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "body": {
+      "type": "richtext"
+    }
+  }
+}
