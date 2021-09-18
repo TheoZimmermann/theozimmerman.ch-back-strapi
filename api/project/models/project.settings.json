@@ -35,6 +35,11 @@
       "plugin": "upload",
       "required": false,
       "pluginOptions": {}
+    },
+    "tags": {
+      "type": "component",
+      "repeatable": true,
+      "component": "small-components.tags"
     }
   }
 }
